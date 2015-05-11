@@ -1,0 +1,39 @@
+turn 0
+loadtime 3000
+turntime 1000
+rows 43
+cols 39
+turns 200
+viewradius2 77
+attackradius2 5
+spawnradius2 1
+player_seed 42
+ready
+turn 1
+w 20 18
+w 20 19
+w 20 20
+w 22 18
+w 22 19
+w 22 20
+w 23 17
+w 23 21
+h 28 19 0
+a 28 19 0
+f 23 19
+f 24 21
+f 27 11
+f 32 25
+go
+end
+players 2
+score 3 None
+status survived None
+playerturns 1 None
+h 28 19 0
+a 28 19 0
+f 23 19
+f 24 21
+f 27 11
+f 32 25
+go
