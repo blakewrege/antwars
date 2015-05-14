@@ -1,8 +1,7 @@
 #!/usr/bin/env python
-#tail -f 0.bot1.error 
 from ants import *
 import sys
-
+# sys.stderr.write("TESTING!\n")
 # define a class with a do_turn method
 # the Ants.run method will parse and update bot input
 # it will also run the do_turn method for us
@@ -26,7 +25,6 @@ class MyBot:
         # the ant_loc is an ant location tuple in (row, col) form
         for ant_loc in ants.my_ants():
             # try all directions in given order
-            sys.stderr.write("TESTING!\n")
             directions = ('n','e','s','w')
             for direction in directions:
                 # the destination method will wrap around the map properly

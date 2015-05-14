@@ -1,0 +1,986 @@
+# turn 1
+o 14 19 n
+# turn 2
+o 13 19 n
+# turn 3
+o 12 19 n
+# turn 4
+o 11 19 n
+# turn 5
+o 10 19 n
+# turn 6
+o 9 19 n
+# turn 7
+o 8 19 n
+# turn 8
+o 7 19 n
+# turn 9
+o 6 19 n
+# turn 10
+o 5 19 n
+# turn 11
+o 4 19 n
+# turn 12
+o 3 19 n
+# turn 13
+o 2 19 n
+# turn 14
+o 1 19 e
+# turn 15
+o 1 20 e
+# turn 16
+o 1 21 e
+# turn 17
+o 1 22 e
+# turn 18
+o 1 23 n
+# turn 19
+o 0 23 n
+# turn 20
+o 42 23 n
+# turn 21
+o 41 23 n
+# turn 22
+o 40 23 n
+# turn 23
+o 39 23 n
+# turn 24
+o 38 23 n
+# turn 25
+o 37 23 n
+# turn 26
+o 36 23 n
+# turn 27
+o 35 23 n
+# turn 28
+o 34 23 n
+# turn 29
+o 33 23 n
+# turn 30
+o 32 23 n
+# turn 31
+o 31 23 n
+# turn 32
+o 30 23 n
+# turn 33
+o 29 23 n
+# turn 34
+o 28 23 n
+# turn 35
+o 27 23 n
+# turn 36
+o 26 23 n
+# turn 37
+o 25 23 n
+# turn 38
+o 24 23 n
+# turn 39
+o 23 23 n
+# turn 40
+o 22 23 n
+# turn 41
+o 21 23 n
+# turn 42
+o 20 23 n
+# turn 43
+o 19 23 n
+# turn 44
+o 18 23 n
+# turn 45
+o 17 23 n
+# turn 46
+o 16 23 n
+# turn 47
+o 15 23 n
+# turn 48
+o 14 23 n
+# turn 49
+o 13 23 n
+# turn 50
+o 12 23 n
+# turn 51
+o 11 23 n
+# turn 52
+o 10 23 n
+# turn 53
+o 9 23 n
+# turn 54
+o 8 23 n
+# turn 55
+o 14 19 n
+o 7 23 n
+# turn 56
+o 6 23 n
+o 13 19 n
+# turn 57
+o 5 23 n
+o 12 19 n
+# turn 58
+o 4 23 n
+o 11 19 n
+# turn 59
+o 3 23 n
+o 10 19 n
+# turn 60
+o 2 23 n
+o 14 19 n
+o 9 19 n
+# turn 61
+o 8 19 n
+o 13 19 n
+o 1 23 n
+# turn 62
+o 7 19 n
+o 12 19 n
+o 0 23 n
+# turn 63
+o 6 19 n
+o 42 23 n
+o 11 19 n
+# turn 64
+o 41 23 n
+o 10 19 n
+o 5 19 n
+# turn 65
+o 9 19 n
+o 40 23 n
+o 4 19 n
+# turn 66
+o 8 19 n
+o 3 19 n
+o 39 23 n
+# turn 67
+o 7 19 n
+o 2 19 n
+o 38 23 n
+# turn 68
+o 6 19 n
+o 14 19 n
+o 1 19 e
+o 37 23 n
+# turn 69
+o 14 19 n
+o 36 23 n
+o 13 19 n
+o 1 20 e
+o 5 19 n
+# turn 70
+o 1 21 e
+o 35 23 n
+o 12 19 n
+o 4 19 n
+o 13 19 n
+# turn 71
+o 34 23 n
+o 1 22 e
+o 3 19 n
+o 12 19 n
+o 11 19 n
+# turn 72
+o 10 19 n
+o 33 23 n
+o 2 19 n
+o 11 19 n
+o 1 23 n
+# turn 73
+o 9 19 n
+o 1 19 e
+o 10 19 n
+o 32 23 n
+o 0 23 n
+# turn 74
+o 8 19 n
+o 31 23 n
+o 42 23 n
+o 9 19 n
+o 1 20 e
+# turn 75
+o 1 21 e
+o 8 19 n
+o 7 19 n
+o 30 23 n
+o 41 23 n
+# turn 76
+o 6 19 n
+o 7 19 n
+o 29 23 n
+o 1 22 e
+o 40 23 n
+# turn 77
+o 6 19 n
+o 1 23 n
+o 28 23 n
+o 39 23 n
+o 5 19 n
+# turn 78
+o 27 23 n
+o 38 23 n
+o 4 19 n
+o 5 19 n
+o 0 23 n
+# turn 79
+o 42 23 n
+o 3 19 n
+o 4 19 n
+o 26 23 n
+o 37 23 n
+# turn 80
+o 36 23 n
+o 2 19 n
+o 3 19 n
+o 41 23 n
+o 25 23 n
+# turn 81
+o 1 19 e
+o 2 19 n
+o 40 23 n
+o 24 23 n
+o 35 23 n
+# turn 82
+o 34 23 n
+o 39 23 n
+o 1 19 e
+o 23 23 n
+o 1 20 e
+# turn 83
+o 1 21 e
+o 22 23 n
+o 33 23 n
+o 38 23 n
+o 1 20 e
+# turn 84
+o 1 21 e
+o 37 23 n
+o 1 22 e
+o 14 19 n
+o 21 23 n
+o 32 23 n
+# turn 85
+o 20 23 n
+o 1 22 e
+o 31 23 n
+o 13 19 n
+o 1 23 n
+o 36 23 n
+# turn 86
+o 35 23 n
+o 0 23 n
+o 1 23 n
+o 19 23 n
+o 30 23 n
+o 12 19 n
+# turn 87
+o 18 23 n
+o 29 23 n
+o 34 23 n
+o 42 23 n
+o 11 19 n
+o 0 23 n
+# turn 88
+o 42 23 n
+o 33 23 n
+o 41 23 n
+o 28 23 n
+o 17 23 n
+o 10 19 n
+# turn 89
+o 27 23 n
+o 16 23 n
+o 40 23 n
+o 9 19 n
+o 32 23 n
+o 41 23 n
+# turn 90
+o 8 19 n
+o 15 23 n
+o 40 23 n
+o 26 23 n
+o 39 23 n
+o 31 23 n
+# turn 91
+o 7 19 n
+o 38 23 n
+o 14 23 n
+o 30 23 n
+o 39 23 n
+o 25 23 n
+# turn 92
+o 6 19 n
+o 13 23 n
+o 29 23 n
+o 24 23 n
+o 38 23 n
+o 37 23 n
+# turn 93
+o 36 23 n
+o 37 23 n
+o 12 23 n
+o 5 19 n
+o 28 23 n
+o 23 23 n
+# turn 94
+o 11 23 n
+o 36 23 n
+o 22 23 n
+o 4 19 n
+o 27 23 n
+o 35 23 n
+# turn 95
+o 26 23 n
+o 34 23 n
+o 3 19 n
+o 10 23 n
+o 35 23 n
+o 21 23 n
+# turn 96
+o 34 23 n
+o 20 23 n
+o 2 19 n
+o 33 23 n
+o 9 23 n
+o 25 23 n
+# turn 97
+o 1 19 e
+o 8 23 n
+o 24 23 n
+o 33 23 n
+o 19 23 n
+o 32 23 n
+# turn 98
+o 18 23 n
+o 32 23 n
+o 31 23 n
+o 23 23 n
+o 7 23 n
+o 1 20 e
+# turn 99
+o 1 21 e
+o 22 23 n
+o 31 23 n
+o 17 23 n
+o 6 23 n
+o 30 23 n
+# turn 100
+o 29 23 n
+o 5 23 n
+o 1 22 e
+o 21 23 n
+o 30 23 n
+o 16 23 n
+# turn 101
+o 20 23 n
+o 29 23 n
+o 15 23 n
+o 1 23 n
+o 14 19 n
+o 28 23 n
+o 4 23 n
+# turn 102
+o 27 23 n
+o 19 23 n
+o 3 23 n
+o 28 23 n
+o 13 19 n
+o 14 23 n
+o 0 23 n
+# turn 103
+o 2 23 n
+o 18 23 n
+o 27 23 n
+o 13 23 n
+o 26 23 n
+o 12 19 n
+o 42 23 n
+# turn 104
+o 25 23 n
+o 41 23 n
+o 17 23 n
+o 26 23 n
+o 12 23 n
+o 1 23 n
+o 11 19 n
+# turn 105
+o 11 23 n
+o 0 23 n
+o 24 23 n
+o 10 19 n
+o 40 23 n
+o 16 23 n
+o 25 23 n
+# turn 106
+o 42 23 n
+o 39 23 n
+o 15 23 n
+o 24 23 n
+o 10 23 n
+o 9 19 n
+o 23 23 n
+# turn 107
+o 8 19 n
+o 22 23 n
+o 38 23 n
+o 41 23 n
+o 14 23 n
+o 23 23 n
+o 9 23 n
+# turn 108
+o 37 23 n
+o 7 19 n
+o 13 23 n
+o 22 23 n
+o 40 23 n
+o 8 23 n
+o 21 23 n
+# turn 109
+o 6 19 n
+o 20 23 n
+o 36 23 n
+o 12 23 n
+o 21 23 n
+o 7 23 n
+o 39 23 n
+# turn 110
+o 11 23 n
+o 20 23 n
+o 6 23 n
+o 35 23 n
+o 19 23 n
+o 38 23 n
+o 5 19 n
+# turn 111
+o 18 23 n
+o 37 23 n
+o 34 23 n
+o 4 19 n
+o 10 23 n
+o 19 23 n
+o 5 23 n
+# turn 112
+o 18 23 n
+o 33 23 n
+o 4 23 n
+o 3 19 n
+o 17 23 n
+o 36 23 n
+o 9 23 n
+# turn 113
+o 2 19 n
+o 32 23 n
+o 8 23 n
+o 17 23 n
+o 3 23 n
+o 16 23 n
+o 35 23 n
+# turn 114
+o 2 23 n
+o 34 23 n
+o 1 19 e
+o 15 23 n
+o 31 23 n
+o 7 23 n
+o 16 23 n
+# turn 115
+o 6 23 n
+o 15 23 n
+o 1 23 n
+o 30 23 n
+o 33 23 n
+o 14 23 n
+o 1 20 e
+# turn 116
+o 1 21 e
+o 13 23 n
+o 29 23 n
+o 32 23 n
+o 5 23 n
+o 14 23 n
+o 0 23 n
+# turn 117
+o 4 23 n
+o 13 23 n
+o 1 22 e
+o 31 23 n
+o 42 23 n
+o 12 23 n
+o 28 23 n
+# turn 118
+o 11 23 n
+o 27 23 n
+o 1 23 n
+o 3 23 n
+o 12 23 n
+o 41 23 n
+o 30 23 n
+# turn 119
+o 2 23 n
+o 14 19 n
+o 29 23 n
+o 40 23 n
+o 11 23 n
+o 10 23 n
+o 26 23 n
+o 0 23 n
+# turn 120
+o 25 23 n
+o 14 19 n
+o 42 23 n
+o 13 19 n
+o 10 23 n
+o 28 23 n
+o 1 23 n
+o 39 23 n
+o 9 23 n
+# turn 121
+o 27 23 n
+o 38 23 n
+o 0 23 n
+o 8 23 n
+o 13 19 n
+o 24 23 n
+o 41 23 n
+o 12 19 n
+o 9 23 n
+# turn 122
+o 42 23 n
+o 37 23 n
+o 11 19 n
+o 40 23 n
+o 8 23 n
+o 26 23 n
+o 23 23 n
+o 12 19 n
+o 7 23 n
+# turn 123
+o 39 23 n
+o 36 23 n
+o 22 23 n
+o 41 23 n
+o 6 23 n
+o 25 23 n
+o 10 19 n
+o 7 23 n
+o 11 19 n
+# turn 124
+o 5 23 n
+o 6 23 n
+o 40 23 n
+o 24 23 n
+o 38 23 n
+o 35 23 n
+o 21 23 n
+o 9 19 n
+o 10 19 n
+# turn 125
+o 34 23 n
+o 20 23 n
+o 9 19 n
+o 37 23 n
+o 39 23 n
+o 8 19 n
+o 5 23 n
+o 4 23 n
+o 23 23 n
+# turn 126
+o 7 19 n
+o 4 23 n
+o 22 23 n
+o 19 23 n
+o 36 23 n
+o 3 23 n
+o 33 23 n
+o 38 23 n
+o 8 19 n
+# turn 127
+o 2 23 n
+o 18 23 n
+o 37 23 n
+o 6 19 n
+o 7 19 n
+o 3 23 n
+o 21 23 n
+o 32 23 n
+o 35 23 n
+# turn 128
+o 2 23 n
+o 6 19 n
+o 20 23 n
+o 34 23 n
+o 31 23 n
+o 17 23 n
+o 1 23 n
+o 36 23 n
+o 5 19 n
+# turn 129
+o 35 23 n
+o 0 23 n
+o 4 19 n
+o 1 23 n
+o 19 23 n
+o 33 23 n
+o 30 23 n
+o 16 23 n
+o 5 19 n
+# turn 130
+o 18 23 n
+o 32 23 n
+o 29 23 n
+o 34 23 n
+o 3 19 n
+o 4 19 n
+o 14 19 n
+o 42 23 n
+o 0 23 n
+o 15 23 n
+# turn 131
+o 33 23 n
+o 42 23 n
+o 2 19 n
+o 3 19 n
+o 17 23 n
+o 41 23 n
+o 28 23 n
+o 13 19 n
+o 14 23 n
+o 31 23 n
+# turn 132
+o 27 23 n
+o 13 23 n
+o 2 19 n
+o 12 19 n
+o 1 19 e
+o 32 23 n
+o 41 23 n
+o 30 23 n
+o 40 23 n
+o 16 23 n
+# turn 133
+o 39 23 n
+o 1 19 e
+o 29 23 n
+o 15 23 n
+o 40 23 n
+o 26 23 n
+o 12 23 n
+o 11 19 n
+o 1 20 e
+o 31 23 n
+# turn 134
+o 1 21 e
+o 38 23 n
+o 30 23 n
+o 11 23 n
+o 10 19 n
+o 28 23 n
+o 25 23 n
+o 14 23 n
+o 39 23 n
+o 1 20 e
+# turn 135
+o 1 21 e
+o 29 23 n
+o 13 23 n
+o 1 22 e
+o 37 23 n
+o 24 23 n
+o 27 23 n
+o 10 23 n
+o 38 23 n
+o 9 19 n
+# turn 136
+o 28 23 n
+o 8 19 n
+o 37 23 n
+o 1 22 e
+o 1 23 n
+o 26 23 n
+o 12 23 n
+o 23 23 n
+o 36 23 n
+o 9 23 n
+# turn 137
+o 11 23 n
+o 27 23 n
+o 22 23 n
+o 8 23 n
+o 7 19 n
+o 35 23 n
+o 1 23 n
+o 36 23 n
+o 0 23 n
+o 25 23 n
+# turn 138
+o 6 19 n
+o 26 23 n
+o 42 23 n
+o 34 23 n
+o 24 23 n
+o 10 23 n
+o 35 23 n
+o 21 23 n
+o 7 23 n
+o 0 23 n
+# turn 139
+o 34 23 n
+o 20 23 n
+o 42 23 n
+o 6 23 n
+o 41 23 n
+o 33 23 n
+o 25 23 n
+o 5 19 n
+o 23 23 n
+o 9 23 n
+# turn 140
+o 22 23 n
+o 8 23 n
+o 4 19 n
+o 33 23 n
+o 14 19 n
+o 41 23 n
+o 24 23 n
+o 19 23 n
+o 5 23 n
+o 32 23 n
+o 40 23 n
+# turn 141
+o 18 23 n
+o 40 23 n
+o 21 23 n
+o 23 23 n
+o 7 23 n
+o 4 23 n
+o 3 19 n
+o 13 19 n
+o 39 23 n
+o 32 23 n
+o 31 23 n
+# turn 142
+o 20 23 n
+o 2 19 n
+o 3 23 n
+o 30 23 n
+o 12 19 n
+o 22 23 n
+o 6 23 n
+o 31 23 n
+o 17 23 n
+o 38 23 n
+o 39 23 n
+# turn 143
+o 5 23 n
+o 29 23 n
+o 21 23 n
+o 30 23 n
+o 16 23 n
+o 2 23 n
+o 1 19 e
+o 38 23 n
+o 19 23 n
+o 37 23 n
+o 11 19 n
+# turn 144
+o 18 23 n
+o 20 23 n
+o 15 23 n
+o 1 23 n
+o 28 23 n
+o 10 19 n
+o 36 23 n
+o 4 23 n
+o 29 23 n
+o 37 23 n
+o 1 20 e
+# turn 145
+o 1 21 e
+o 27 23 n
+o 3 23 n
+o 28 23 n
+o 36 23 n
+o 17 23 n
+o 19 23 n
+o 9 19 n
+o 14 23 n
+o 0 23 n
+o 35 23 n
+# turn 146
+o 18 23 n
+o 27 23 n
+o 13 23 n
+o 1 22 e
+o 26 23 n
+o 35 23 n
+o 16 23 n
+o 2 23 n
+o 8 19 n
+o 42 23 n
+o 34 23 n
+# turn 147
+o 7 19 n
+o 41 23 n
+o 34 23 n
+o 15 23 n
+o 17 23 n
+o 26 23 n
+o 12 23 n
+o 33 23 n
+o 25 23 n
+# turn 148
+o 6 19 n
+o 11 23 n
+o 32 23 n
+o 24 23 n
+o 33 23 n
+o 25 23 n
+o 14 23 n
+o 40 23 n
+o 16 23 n
+# turn 149
+o 39 23 n
+o 13 23 n
+o 15 23 n
+o 24 23 n
+o 31 23 n
+o 10 23 n
+o 23 23 n
+o 32 23 n
+o 5 19 n
+# turn 150
+o 22 23 n
+o 31 23 n
+o 4 19 n
+o 38 23 n
+o 30 23 n
+o 12 23 n
+o 14 23 n
+o 23 23 n
+o 9 23 n
+# turn 151
+o 11 23 n
+o 29 23 n
+o 13 23 n
+o 22 23 n
+o 3 19 n
+o 8 23 n
+o 21 23 n
+o 30 23 n
+o 37 23 n
+# turn 152
+o 28 23 n
+o 20 23 n
+o 29 23 n
+o 2 19 n
+o 10 23 n
+o 12 23 n
+o 21 23 n
+o 7 23 n
+o 36 23 n
+# turn 153
+o 11 23 n
+o 20 23 n
+o 1 19 e
+o 6 23 n
+o 27 23 n
+o 19 23 n
+o 28 23 n
+o 35 23 n
+o 9 23 n
+# turn 154
+o 18 23 n
+o 26 23 n
+o 34 23 n
+o 8 23 n
+o 27 23 n
+o 10 23 n
+o 19 23 n
+o 5 23 n
+o 1 20 e
+# turn 155
+o 18 23 n
+o 1 21 e
+o 4 23 n
+o 17 23 n
+o 25 23 n
+o 33 23 n
+o 26 23 n
+o 7 23 n
+o 9 23 n
+# turn 156
+o 32 23 n
+o 6 23 n
+o 24 23 n
+o 8 23 n
+o 17 23 n
+o 3 23 n
+o 25 23 n
+o 1 22 e
+o 16 23 n
+# turn 157
+o 2 23 n
+o 15 23 n
+o 24 23 n
+o 1 23 n
+o 31 23 n
+o 5 23 n
+o 7 23 n
+o 16 23 n
+o 23 23 n
+# turn 158
+o 4 23 n
+o 6 23 n
+o 15 23 n
+o 1 23 n
+o 22 23 n
+o 30 23 n
+o 14 23 n
+o 23 23 n
+o 0 23 n
+# turn 159
+o 29 23 n
+o 13 23 n
+o 22 23 n
+o 42 23 n
+o 3 23 n
+o 21 23 n
+o 5 23 n
+o 14 23 n
+o 0 23 n
+# turn 160
+o 2 23 n
+o 28 23 n
+o 20 23 n
+o 13 23 n
+o 41 23 n
+o 12 23 n
+o 21 23 n
+o 4 23 n
+o 42 23 n
+# turn 161
+o 11 23 n
+o 20 23 n
+o 40 23 n
+o 19 23 n
+o 3 23 n
+o 12 23 n
+o 1 23 n
+o 27 23 n
+o 41 23 n
+# turn 162
+o 2 23 n
+o 18 23 n
+o 40 23 n
+o 11 23 n
+o 10 23 n
+o 19 23 n
+o 26 23 n
+o 39 23 n
+o 0 23 n
+# turn 163
+o 18 23 n
+o 25 23 n
+o 42 23 n
+o 38 23 n
+o 17 23 n
+o 10 23 n
+o 1 23 n
+o 39 23 n
+o 9 23 n
